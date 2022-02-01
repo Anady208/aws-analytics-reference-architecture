@@ -51,6 +51,7 @@ const project = new AwsCdkConstructLibrary({
     '@aws-cdk/aws-kinesis',
     '@aws-cdk/aws-kinesisfirehose',
     '@aws-cdk/aws-kinesisfirehose-destinations',
+    '@aws-cdk/aws-lakeformation',
     '@aws-cdk/aws-lambda',
     '@aws-cdk/aws-lambda-python',
     '@aws-cdk/aws-logs',

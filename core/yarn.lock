@@ -519,6 +519,14 @@
     "@aws-cdk/cx-api" "1.130.0"
     constructs "^3.3.69"
 
+"@aws-cdk/aws-lakeformation@1.130":
+  version "1.130.0"
+  resolved "https://registry.yarnpkg.com/@aws-cdk/aws-lakeformation/-/aws-lakeformation-1.130.0.tgz#a1fd642f95cb99354e5f6df41a7c293a00bfd7a5"
+  integrity sha512-7vroXoy98vKy+SNbONAzTA4Hqq+Lh8FR1iIOb9B/ZTzY0xJ0bi0Fi4bGF2aAoDbxFPgCO0vt2VtlgiB0yqoDUg==
+  dependencies:
+    "@aws-cdk/core" "1.130.0"
+    constructs "^3.3.69"
+
 "@aws-cdk/aws-lambda-nodejs@1.130.0":
   version "1.130.0"
   resolved "https://registry.yarnpkg.com/@aws-cdk/aws-lambda-nodejs/-/aws-lambda-nodejs-1.130.0.tgz#9d591c958056d3f3074c1f9f6b6725c2008b4abb"
